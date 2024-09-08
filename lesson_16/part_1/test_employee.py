@@ -1,10 +1,5 @@
-from lesson_16.employee import TeamLead
-import assertpy
+from lesson_16.part_1.employee import TeamLead
 from assertpy import assert_that
-
-
-def assert_that(self):
-    pass
 
 
 class TestEmployee:
